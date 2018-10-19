@@ -6,6 +6,6 @@
   }
 </style>
 
-<p class='user-select-none'>
+<p class='no-user-select'>
   Hey there big boy
 </p>
