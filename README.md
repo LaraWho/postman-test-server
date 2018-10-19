@@ -6,6 +6,6 @@
   }
 </style>
 
-<p style="user-select: none; color: blue">
+<p class='user-select-none'>
   Hey there big boy
 </p>
