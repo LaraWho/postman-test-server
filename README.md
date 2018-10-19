@@ -1,7 +1,8 @@
 # Project
-<style>
+<style type="text/css">
   p{
     user-select:none;
+    color: blue;
   }
 </style>
 
